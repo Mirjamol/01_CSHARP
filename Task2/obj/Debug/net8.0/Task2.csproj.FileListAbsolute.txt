@@ -1,0 +1,15 @@
+D:\GB\Home Work\01_CSHARP\Lesson1\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Home Work\01_CSHARP\Lesson1\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+D:\GB\Home Work\01_CSHARP\Lesson1\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+D:\GB\Home Work\01_CSHARP\Lesson1\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+D:\GB\Home Work\01_CSHARP\Lesson1\Task2\obj\Debug\net8.0\Task2.sourcelink.json
+D:\GB\Home Work\01_CSHARP\Lesson1\Task2\bin\Debug\net8.0\Task2.exe
+D:\GB\Home Work\01_CSHARP\Lesson1\Task2\bin\Debug\net8.0\Task2.deps.json
+D:\GB\Home Work\01_CSHARP\Lesson1\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+D:\GB\Home Work\01_CSHARP\Lesson1\Task2\bin\Debug\net8.0\Task2.dll
+D:\GB\Home Work\01_CSHARP\Lesson1\Task2\bin\Debug\net8.0\Task2.pdb
+D:\GB\Home Work\01_CSHARP\Lesson1\Task2\obj\Debug\net8.0\Task2.dll
+D:\GB\Home Work\01_CSHARP\Lesson1\Task2\obj\Debug\net8.0\refint\Task2.dll
+D:\GB\Home Work\01_CSHARP\Lesson1\Task2\obj\Debug\net8.0\Task2.pdb
+D:\GB\Home Work\01_CSHARP\Lesson1\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+D:\GB\Home Work\01_CSHARP\Lesson1\Task2\obj\Debug\net8.0\ref\Task2.dll
